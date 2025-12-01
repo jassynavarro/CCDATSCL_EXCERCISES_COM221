@@ -1,0 +1,4 @@
+Validation Rule,Count Violating
+Price <= 0,2
+Host ID is null,2
+Minimum Nights < 1,2

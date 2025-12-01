@@ -1,0 +1,5 @@
+neighbourhood_group,avg_price,total_listings,avg_reviews_per_month
+Bronx,250.0,1,1.0
+Brooklyn,50.0,2,2.51
+Manhattan,450.0,4,0.43333333333333335
+Queens,-10.0,1,0.5
